@@ -7,7 +7,9 @@
         "monaca-plugin-monaca-core": "3.3.1",
         "cordova-plugin-dialogs": "2.0.2",
         "cordova-plugin-vibration": "3.1.1",
-        "phonegap-plugin-barcodescanner": "8.1.0"
+        "phonegap-plugin-barcodescanner": "8.1.0",
+        "cordova-plugin-network-information": "2.0.2",
+        "cordova-plugin-geolocation": "4.0.2"
     },
     "cordova": {
         "plugins": {
@@ -16,7 +18,9 @@
             "monaca-plugin-monaca-core": {},
             "cordova-plugin-dialogs": {},
             "cordova-plugin-vibration": {},
-            "phonegap-plugin-barcodescanner": {}
+            "phonegap-plugin-barcodescanner": {},
+            "cordova-plugin-network-information": {},
+            "cordova-plugin-geolocation": {}
         }
     },
     "scripts": {
